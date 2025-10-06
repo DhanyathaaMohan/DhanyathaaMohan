@@ -1,7 +1,8 @@
-<!-- Profile Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/8w4R2D4.png" alt="Dhanyathaa Mohan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/DhanyathaaMohan/DhanyathaaMohan/afb5d6c59c3084274a1e5679616913d653094d46/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png" alt="Dhanyathaa Mohan Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi, I'm Dhanyathaa Mohan</h1>
 <h3 align="center">AI & ML Enthusiast | Full Stack Developer | Problem Solver</h3>
