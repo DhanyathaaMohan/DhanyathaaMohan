@@ -1,40 +1,87 @@
-# 💫 About Me:
-B.E. AIML | 3rd Year Student at KIT – Kalaignar Karunanidhi Institute of Technology, Coimbatore  <br>Passionate Problem Solver | DSA Geek | Data Science Beginner<br>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/8w4R2D4.png" alt="Dhanyathaa Mohan Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi, I'm Dhanyathaa Mohan</h1>
+<h3 align="center">AI & ML Enthusiast | Full Stack Developer | Problem Solver</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhanyathaa) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.am14@gmail.com) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kit27.am14) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/dhanyathaa) 
-[![Codolio](https://img.shields.io/badge/Codolio-%23000000.svg?logo=codeforces&logoColor=white)](https://www.codolio.com/dhanyathaa)
-
-
-# 💻 Tech Stack
-
-### 🖥 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-
-### 🛠 Tools & Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhanyathaaMohan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DhanyathaaMohan&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyathaaMohan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Developer;Open+Source+Contributor;DSA+Learner" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhanyathaaMohan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me  
+
+I’m a passionate **Artificial Intelligence & Machine Learning student** currently pursuing my B.E. in AIML at **KIT – Kalaignar Karunanidhi Institute of Technology**.  
+I love solving complex problems, building intelligent systems, and exploring how technology can create real-world impact.  
+Currently, I’m deepening my knowledge in **AI Engineering, Full Stack Development, and Data Structures & Algorithms**.  
+Always excited to **collaborate, learn, and innovate** alongside like-minded developers 🚀  
+
+---
+
+## Tech Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Development & Frameworks
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Server & Databases
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230077B5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/dhanyathaa-m" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/dhanyathaa" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/kit23bam014" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="mailto:kit27.am14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanyathaaMohan&show_icons=true&theme=radical" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanyathaaMohan&theme=radical" alt="GitHub streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyathaaMohan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### Fun Quote
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhanyathaaMohan&color=blueviolet" alt="Profile views" />
+</p>
