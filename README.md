@@ -8,8 +8,9 @@
 <h3 align="center">AI & ML Enthusiast | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Developer;Open+Source+Contributor;DSA+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=250&size=8&pause=500&color=7E3ACE&center=true&vCenter=true&width=300&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Open+Source+Contributor;DSA+Learner" alt="Typing SVG" />
 </p>
+
 
 ---
 
