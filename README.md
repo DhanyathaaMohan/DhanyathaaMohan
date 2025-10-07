@@ -78,6 +78,9 @@ Always excited to **collaborate, learn, and innovate** alongside like-minded dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyathaaMohan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanyathaaMohan&bg_color=0d1117&color=9b59b6&line=9b59b6&point=c39bd3&area=true&hide_border=true)
+
+
 ---
 
 ### Fun Quote
