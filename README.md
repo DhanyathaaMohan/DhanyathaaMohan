@@ -50,7 +50,7 @@ Always excited to **collaborate, learn, and innovate** alongside like-minded dev
 
 ### Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/dhanyathaa-m" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -86,6 +86,4 @@ Always excited to **collaborate, learn, and innovate** alongside like-minded dev
 ### Fun Quote
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhanyathaaMohan&color=blueviolet" alt="Profile views" />
-</p>
+
