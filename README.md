@@ -100,7 +100,7 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanyathaaMohan&bg_color=0d1117&color=9b59b6&line=9b59b6&point=c39bd3&area=true&hide_border=true)
 
 <p align="center">
-  <img src="https://github.com/DhanyathaaMohan/DhanyathaaMohan/blob/c87ddd315a53d45bdb0088e1dd207074433e994f/profileCard.png" alt="Codolio Card" />
+  <img src="https://github.com/DhanyathaaMohan/DhanyathaaMohan/blob/c87ddd315a53d45bdb0088e1dd207074433e994f/profileCard.png" alt="Codolio Card" width="20%" height="20%" />
 </p>
 ---
 
