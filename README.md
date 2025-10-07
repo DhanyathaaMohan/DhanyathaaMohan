@@ -14,11 +14,29 @@
 ---
 
 ### About Me  
+<p align="center">
+  I’m a passionate <strong>Artificial Intelligence & Machine Learning student</strong> pursuing my <strong>B.E. in AIML</strong> at <em>KIT – Kalaignar Karunanidhi Institute of Technology</em>.
+</p>
 
-I’m a passionate **Artificial Intelligence & Machine Learning student** currently pursuing my B.E. in AIML at **KIT – Kalaignar Karunanidhi Institute of Technology**.  
-I love solving complex problems, building intelligent systems, and exploring how technology can create real-world impact.  
-Currently, I’m deepening my knowledge in **AI Engineering, Full Stack Development, and Data Structures & Algorithms**.  
-Always excited to **collaborate, learn, and innovate** alongside like-minded developers 🚀  
+<p align="center">
+  Focused on <strong>solving complex problems</strong>, <strong>building intelligent systems</strong>, and applying technology for <strong>real-world impact</strong>.
+</p>
+
+<p align="center">
+   Currently expanding expertise in
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-🤖-blue?style=for-the-badge&logo=artificial-intelligence">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-💻-green?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/DSA-🧠-yellow?style=for-the-badge&logo=leetcode">
+</p>
+
+<p align="center">
+   Always eager to <strong>collaborate, learn, and innovate</strong> with like-minded developers.
+</p>
+  
+
 
 ---
 
@@ -80,7 +98,9 @@ Always excited to **collaborate, learn, and innovate** alongside like-minded dev
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanyathaaMohan&bg_color=0d1117&color=9b59b6&line=9b59b6&point=c39bd3&area=true&hide_border=true)
 
-
+<p align="center">
+  <img src="https://codolio.com/profile/dhanyathaa/card" alt="Codio Card" />
+</p>
 ---
 
 ### Fun Quote
